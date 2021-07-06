@@ -14,7 +14,7 @@
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true" alt="Spikey Sanju | Stats" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coolutkarshraj&count_private=true&show_icons=true&include_all_commits=true%22%20alt=%22Utkarsh%20Raj%20|%20Stats" />
 </details>
 
 ## Reach me via 👇
