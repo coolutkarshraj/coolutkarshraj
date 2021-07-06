@@ -19,12 +19,10 @@
 
 ## Reach me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/spikeysanju/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sanjay_spikey)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/insane.dvlpr/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/spikeysanju)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-raj-cpr/)
+[![AngelList](https://img.shields.io/badge/AngelList-blue.svg?style=for-the-badge&logo=AngelList)](https://angel.co/u/utkarshraj)
+[![Facebook](https://img.shields.io/badge/Facebook-pink.svg?style=for-the-badge&logo=Facebook)](https://www.facebook.com/utkarsh.raj.73744/)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-red.svg?style=for-the-badge&logo=Whatsapp)](https://angel.co/u/utkarshraj)
 
 
 ### Spotify Playing 🎧
