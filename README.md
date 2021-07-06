@@ -1,4 +1,4 @@
-### Hi there, I'm Spikey👋
+### Hi there, I'm Utkarsh Raj👋
 
 
 # A Passionate Android Developer & UI/UX Designer 🚀 
@@ -6,9 +6,9 @@
 ## About Me 🤷🏻‍♂️
 
 * 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
-* 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
-* 🐶 Creator of Blue Cross Of India App
-* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
+* 😌 Founder of [@Dincharya](https://play.google.com/store/apps/details?id=com.dincharya) Open Source Project
+* 🐶 Good Knowledge Of Java, Kotlin, Android Development, GIT, Scrup
+* 📸 For More Details see my resume [@Utkarsh Resumer](https://drive.google.com/drive/u/0/search?q=utkarshcv)
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
 
@@ -27,7 +27,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=7PzwOiW8-n0)
 
 ## Projects made with ❤️ 👇
 
