@@ -22,7 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-raj-cpr/)
 [![AngelList](https://img.shields.io/badge/AngelList-blue.svg?style=for-the-badge&logo=AngelList)](https://angel.co/u/utkarshraj)
 [![Facebook](https://img.shields.io/badge/Facebook-pink.svg?style=for-the-badge&logo=Facebook)](https://www.facebook.com/utkarsh.raj.73744/)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-red.svg?style=for-the-badge&logo=Whatsapp)](https://angel.co/u/utkarshraj)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-red.svg?style=for-the-badge&logo=Whatsapp)](https://api.whatsapp.com/send?phone=8825383940&text=Utkarsh%20Raj%20-:%20Senior%20Software%20Developer%20At%20EngineCAL)
 
 
 ### Spotify Playing 🎧
