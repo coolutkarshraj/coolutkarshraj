@@ -7,7 +7,7 @@
 
 * 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
 * 😌 Founder of [@Dincharya](https://play.google.com/store/apps/details?id=com.dincharya) Open Source Project
-* 🐶 Good Knowledge Of Java, Kotlin, Android Development, GIT, Scrup
+* 🐶 Good Knowledge Of Java, Kotlin, Android Development, GIT, Scrum, Android Testing as well as deployment
 * 📸 For More Details see my resume [@Utkarsh Raj](https://drive.google.com/drive/u/0/search?q=utkarshcv)
 * 📝 Interested in Flutter, NodeJs,AWS EC2, S3 Bucket, SQL, DataStructure.
 * 🚀 Love towards Rocket Science Never ends
@@ -20,7 +20,7 @@
 ## Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-raj-cpr/)
-[![AngelList](https://img.shields.io/badge/AngelList-blue.svg?style=for-the-badge&logo=AngelList)](https://angel.co/u/utkarshraj)
+[![AngelList](https://img.shields.io/badge/AngelList-green.svg?style=for-the-badge&logo=AngelList)](https://angel.co/u/utkarshraj)
 [![Facebook](https://img.shields.io/badge/Facebook-pink.svg?style=for-the-badge&logo=Facebook)](https://www.facebook.com/utkarsh.raj.73744/)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-red.svg?style=for-the-badge&logo=Whatsapp)](https://api.whatsapp.com/send?phone=8825383940&text=Utkarsh%20Raj%20-:%20Senior%20Software%20Developer%20At%20EngineCAL)
 
