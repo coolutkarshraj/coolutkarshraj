@@ -8,8 +8,8 @@
 * 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
 * 😌 Founder of [@Dincharya](https://play.google.com/store/apps/details?id=com.dincharya) Open Source Project
 * 🐶 Good Knowledge Of Java, Kotlin, Android Development, GIT, Scrup
-* 📸 For More Details see my resume [@Utkarsh Resumer](https://drive.google.com/drive/u/0/search?q=utkarshcv)
-* 📝 Open Source Contributor
+* 📸 For More Details see my resume [@Utkarsh Raj](https://drive.google.com/drive/u/0/search?q=utkarshcv)
+* 📝 Good Knowledge of Flutter, NodeJs,AWS EC2, S3 Bucket, SQL.
 * 🚀 Love towards Rocket Science Never ends
 
 <details>
