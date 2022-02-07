@@ -1,7 +1,7 @@
 ### Hi there, I'm Utkarsh Raj👋
 
 
-# A Passionate Android Developer & UI/UX Designer 🚀 
+# A Passionate Software Developer & UI/UX Designer 🚀 
 
 ## About Me 🤷🏻‍♂️
 
